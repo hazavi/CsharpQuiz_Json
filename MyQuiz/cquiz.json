@@ -1,0 +1,76 @@
+﻿{
+  "questions": [
+    {
+      "questiontext": "Hvilket af følgende er IKKE en gyldig C# datatypen?",
+      "options": [ "(a) string", "(b) boolean", "(c) character", "(d) float" ],
+      "answer": "c",
+      "desc": "I C# kaldes datatypen for en enkelt karakter 'char' og ikke 'character'. Derfor er 'character' ikke en gyldig C# datatypen."
+    },
+    {
+      "questiontext": "Hvad er C#'s nøgleord til at oprette en ny instans af en klasse?",
+      "options": [ "(a) new", "(b) create", "(c) instance", "(d) object" ],
+      "answer": "a",
+      "desc": "I C# bruger vi nøgleordet 'new' til at oprette en ny instans af en klasse. Det fortæller C#-kompilatoren, at vi vil lave et nyt objekt baseret på klassen."
+    },
+    {
+      "questiontext": "Hvilket nøgleord bruges til at arve fra en anden klasse i C#?",
+      "options": [ "(a) base", "(b) extend", "(c) inherit", "(d) class" ],
+      "answer": "c",
+      "desc": "I C# bruger vi nøgleordet 'inherit' til at angive, at en klasse arver fra en anden klasse. Det muliggør genbrug af kode og oprettelse af hierarkier af klasser."
+    },
+    {
+      "questiontext": "Hvilken type løkke bruges til at udføre en kodeblok et bestemt antal gange i C#?",
+      "options": [ "(a) if-løkken", "(b) while-løkken", "(c) for-løkken", "(d) do-while-løkken" ],
+      "answer": "c",
+      "desc": "For-løkken bruges, når du kender antallet af iterationer på forhånd og ønsker at udføre en kodeblok et bestemt antal gange."
+    },
+    {
+      "questiontext": "Hvilket nøgleord bruges til at afslutte en løkke og springe til næste iteration?",
+      "options": [ "(a) break", "(b) continue", "(c) exit", "(d) return" ],
+      "answer": "b",
+      "desc": "I C# bruger vi 'continue' til at afslutte den aktuelle iteration af en løkke og fortsætte med næste iteration."
+    },
+    {
+      "questiontext": "Hvad er C#?",
+      "options": [ "(a) En database", "(b) Et operativsystem", "(c) Et programmeringsprog", "(d) En browser" ],
+      "answer": "c",
+      "desc": "C# er et populært programmeringssprog udviklet af Microsoft. Det bruges primært til udvikling af Windows-applikationer, webapplikationer, spil og meget mere."
+    },
+    {
+      "questiontext": "Hvad er en klasse i C#?",
+      "options": [ "(a) En metode til at udføre en opgave", "(b) En blueprint eller skabelon til at oprette objekter", "(c) En samling af objekter", "(d) En standard C# biblioteksklasse" ],
+      "answer": "b",
+      "desc": "I C# definerer en klasse en blueprint eller skabelon, der beskriver, hvordan et objekt af klassen skal oprettes. Det specificerer de egenskaber (variabler) og metoder, der er tilgængelige for objekter af denne klasse."
+    },
+    {
+      "questiontext": "Hvordan kan du få adgang til det første element i en array i C#?",
+      "options": [ "(a) array[0]", "(b) array[1]", "(c) array[First]", "(d) array.First()" ],
+      "answer": "a",
+      "desc": "I C# starter indeksering af arrays fra 0. Så det første element i et array kan tilgås ved at bruge indeksværdien 0."
+    },
+    {
+      "questiontext": "Hvilken af følgende metoder er brugt til at læse en linje tekst fra brugeren i konsolapplikationer?",
+      "options": [ "(a) Console.Write()", "(b) Console.Read()", "(c) Console.WriteLine()", "(d) Console.ReadLine()" ],
+      "answer": "d",
+      "desc": "Console.ReadLine() metoden bruges til at læse en hel linje tekst fra brugeren i en konsolapplikation."
+    },
+    {
+      "questiontext": "Hvad er formålet med en 'try-catch' blok i C#?",
+      "options": [ "(a) Den definerer en blok af kode, der altid skal udføres.", "(b) Den udfører en handling, når en undtagelse opstår.", "(c) Den udfører en bestemt kode flere gange.", "(d) Den udfører en betinget kontrolstruktur." ],
+      "answer": "b",
+      "desc": "En 'try-catch' blok i C# bruges til at håndtere undtagelser. Koden inden for 'try' blokken udføres, og hvis en undtagelse opstår, fanges den i 'catch' blokken, hvor en passende handling kan udføres."
+    }
+    //{
+    //  "questiontext": "",
+    //  "options": [ "(a) ", "(b) ", "(c) ", "(d) " ],
+    //  "answer": "",
+    //  "desc": "I C# bruger vi 'continue' "
+    //},
+    //{
+    //  "questiontext": "",
+    //  "options": [ "(a) ", "(b) ", "(c) ", "(d) " ],
+    //  "answer": "",
+    //  "desc": "I C# bruger vi 'continue' "
+    //}
+  ]
+}

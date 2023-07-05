@@ -1,0 +1,73 @@
+﻿{
+  "questions": [
+    {
+      "questiontext": "Hvad er hovedstad i USA?",
+      "options": [ "(a) New York", "(b) Los Angeles", "(c) Washington, D.C" ],
+      "answer": "c",
+      "desc": "USA’s hovedstad har heddet Washington D.C. siden år 1800. Byen er opkaldt efter Præsident George Washington."
+    },
+    {
+      "questiontext": "Hvad hedder verdens længste flod?",
+      "options": [ "(a) Nilen", "(b) Amazonas", "(c) Rhinen" ],
+      "answer": "a",
+      "desc": "Verdens længste flod er 6853 kilometer lang, som ligger i Afrika og løber gennem ti forskellige lande i kontinentet. "
+
+    },
+    {
+      "questiontext": "Hvor mange måner har Mars?",
+      "options": [ "(a) Ingen", "(b) 5", "(c) 2" ],
+      "answer": "c",
+      "desc": "Planeten Mars har to kendte måner, Phobos og Deimos. Begge måner blev opdaget i 1877 af Asaph Hall og er opkaldt efter de to figurer Phobos (rædsel) og Deimos (terror/død)."
+
+    },
+    {
+      "questiontext": "Hvilken kendt forfatter blev født i Odense?",
+      "options": [ "(a) Bjarne Reuter", "(b) H.C Andersen", "(c) Karen Blixen" ],
+      "answer": "b",
+      "desc": "Hans Christian Andersen (H.C Andersen) kom til verden i Odense den 2. april 1805."
+
+    },
+    {
+      "questiontext": "Hvilken højtid markerer Jesu død?",
+      "options": [ "(a) Julen", "(b) Påsken", "(c) Pinsen" ],
+      "answer": "b",
+      "desc": "Påsken er en kristen højtid, der markerer Jesu korsfæstelse, død og genopstandelse."
+
+    },
+    {
+      "questiontext": "Hvad spiser flodhesten?",
+      "options": [ "(a) Græs", "(b) Mus og andre smådyr", "(c) Fisk" ],
+      "answer": "a",
+      "desc": "Flodheste spiser hovedsageligt græs. Kun sjældent spiser den vandplanter."
+
+    },
+    {
+      "questiontext": "Hvad hedder Grønlands hovedstad?",
+      "options": [ "(a) Thule", "(b) Maniitsoq", "(c) Nuuk" ],
+      "answer": "c",
+      "desc": "Nuuk er hovedstaden i Grønland, som er et selvstyrende territorium i Kongeriget Danmark."
+    },
+    {
+      "questiontext": "Sahara – hvad er det?",
+      "options": [ "(a) Regnskov", "(b) Ørken", "(c) Sø" ],
+      "answer": "b",
+      "desc": "Sahara er verdens største varme ørken på ca. 8,5 mio. km2."
+    },
+    {
+      "questiontext": "Hvad hedder det danske kongeskib? ",
+      "options": [ "(a) Dannebrog", "(b) Danmark", "(c) Georg Stage" ],
+      "answer": "a",
+      "desc": "Dannebrog blev bygget på Orlogsværftet i 1931 og tjener som officiel og privat residens for den kongelige familie."
+    },
+    {
+      "questiontext": "Hvem er Zeus?",
+      "options": [ "(a) Romersk gud for ferskvand", "(b) Den mægtigste af de græske guder", "(c) Nordisk frugtbarhedsgud" ],
+      "answer": "b",
+      "desc": "Zeus er den største og mægtigste af de græske guder."
+    }
+
+
+  ]
+
+
+}
